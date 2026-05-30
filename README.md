@@ -195,11 +195,7 @@ smart-parking-system/
 **Shivansh Dawar**  
 B.Tech CSE (IoT) — Raj Kumar Goel Institute of Technology, Ghaziabad  
 📧 anshdawar1506@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/shivansh-dawar)  
-🐙 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](www.linkedin.com/in/shivansh-dawar)  
+🐙 [GitHub](https://github.com/ansh-dawar)
 
----
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
