@@ -8,7 +8,7 @@ An automated smart parking system built using **Arduino UNO** that detects incom
 
 ## 📽️ Demo Video
 
-<--  -->
+<-- https://github.com/ansh-dawar/Arduino-Smart-Parking-System/blob/main/arduino_smart_parking_video.mp4 -->
 
 ---
 
